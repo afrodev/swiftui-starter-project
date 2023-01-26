@@ -3,7 +3,7 @@ Jesus and Humberto started project
 
 This project is to have discussions about iOS platform and study Swift UI.
 
-## The first lesson
+## The first task
 1. Do an App that have a list of albums with image. 
 To do that you can use the api: https://jsonplaceholder.typicode.com/albums
 It returns a json with all the albums available. 
