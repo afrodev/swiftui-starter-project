@@ -29,5 +29,6 @@ Example:
 4. Fix problem from X
 
 
-Use it Swift UI, it will be good if you use the new API for async await too (optional).
+Use it Swift UI, it will be good if you use the new API for [async await](https://www.hackingwithswift.com/swift/5.5/async-await) too (optional).
+
 Any doubt just send me a message.
