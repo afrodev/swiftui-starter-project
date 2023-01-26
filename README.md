@@ -8,11 +8,13 @@ This project is to have discussions about iOS platform and study Swift UI.
 To do that you can use the api: https://jsonplaceholder.typicode.com/albums
 It returns a json with all the albums available. 
 
-User stories:
+*Business Rules:*
 - You need to show the albums titles.
 - You need to get the `albumId` because you will need in the next screen.
 
 2. After tap in one of the album images you will go to a detail screen. This screen will need to show information from this API: https://jsonplaceholder.typicode.com/photos?id={id_of_album}
+
+*Business Rules:*
 - You need to show the albums photos (`thumbnailUrl`), album title, image title.
 
 
