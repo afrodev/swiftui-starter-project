@@ -18,7 +18,7 @@ It returns a json with all the albums available.
 - You need to show the albums photos (`thumbnailUrl`), album title, image title.
 
 
-The design following [Apple Guidelines of list on Swift UI](https://developer.apple.com/design/human-interface-guidelines/components/layout-and-organization/lists-and-tables/). You can try to follow all the guidelines but you can use your criativity to do all of that.
+The design following [Apple Guidelines of list on Swift UI](https://developer.apple.com/documentation/swiftui/lists). You can try to follow all the guidelines but you can use your criativity to do all of that.
 
 
 It's is preferrable to split what you need to do in small tasks and open PRs for each of them.
